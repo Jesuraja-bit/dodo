@@ -1,0 +1,38 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:  #e0c10e;
+}
+h1{
+    color: black;
+    text-align:center;
+}
+div{
+    margin: 15px;
+    padding: 36px;
+    background-color:rgb(214, 224, 117);
+    border: none;
+    border-radius: 15px;
+     
+}
+#main header{
+    margin: 24px;
+    padding: 24px;
+    color: white;
+    background-color: aqua;
+    text-align: center;
+}
+#input{
+    color: navy;
+    background-color: yellow;
+    border: none;
+    border-bottom: #29da73;
+    border-left: #0e5df1;
+}
+#btn{
+    border: none;
+    border-radius: 8px;
+    background-color: aqua;
+
+
+}
